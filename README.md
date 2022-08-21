@@ -5,6 +5,8 @@ Enjoy
 - combining with super-resolution model
 
 # Preview
+PROMPT: "a region of spacetime where gravity is so strong that nothing can escape"
+<br/>
 <br/>
 <img src="notebooks/data/image_2.png" width="400">
 <img src="notebooks/data/image_4.png" width="400">
