@@ -12,6 +12,17 @@ Enjoy
 <img src="notebooks/data/image_17.png" width="400">
 <img src="notebooks/data/image_24.png" width="400">
 
+
+# Super-resolution
+Low resolution
+<br/>
+<img src="notebooks/highres/image00low.jpg" width="400">
+
+High resolution
+<br/>
+<img src="notebooks/highres/image00high.jpg" width="400">
+
+
 ## Prerequisite
 - install miniforge
 - create virtual env
