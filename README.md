@@ -2,7 +2,7 @@
 Enjoy
 
 ### TODO:
-- combining with super-resolution model
+- combining with Real-ESRGAN model
 
 # Preview
 <br/>
