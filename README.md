@@ -18,3 +18,10 @@ PROMPT: "a region of spacetime where gravity is so strong that nothing can escap
 - pip install min-dalle
 - then pip uninstall torch (comes with min-dalle)
 - pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+
+
+## Credits
+- Min-Dalle (Generating Arty images)
+  - https://github.com/kuprel/min-dalle
+- Real-ESRGAN (Image and video restoration)
+  - https://github.com/xinntao/Real-ESRGAN
